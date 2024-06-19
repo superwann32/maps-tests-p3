@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "esbuild": "^0.21.5",
     "leaflet": "^1.9.4",
+    "leaflet-geosearch": "^4.0.0",
+    "leaflet-routing-machine": "^3.2.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-leaflet": "^4.2.1",

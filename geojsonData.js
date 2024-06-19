@@ -233,5 +233,69 @@ export const geojsonData = {
         type: "Point",
       },
     },
+    {
+      type: "Feature",
+      properties: {},
+      geometry: {
+        coordinates: [3.453719751659918, 44.96797832854995],
+        type: "Point",
+      },
+    },
+    {
+      type: "Feature",
+      properties: {},
+      geometry: {
+        coordinates: [4.779508412294206, 45.1774220047719],
+        type: "Point",
+      },
+    },
+    {
+      type: "Feature",
+      properties: {},
+      geometry: {
+        coordinates: [5.711401023781349, 45.19276342828596],
+        type: "Point",
+      },
+    },
+    {
+      type: "Feature",
+      properties: {},
+      geometry: {
+        coordinates: [3.4909317569344864, 45.32314848744369],
+        type: "Point",
+      },
+    },
+    {
+      type: "Feature",
+      properties: {},
+      geometry: {
+        coordinates: [2.4249448417596398, 44.88427692975114],
+        type: "Point",
+      },
+    },
+    {
+      type: "Feature",
+      properties: {},
+      geometry: {
+        coordinates: [4.729085437205725, 46.66525241107826],
+        type: "Point",
+      },
+    },
+    {
+      type: "Feature",
+      properties: {},
+      geometry: {
+        coordinates: [4.032881421982836, 47.19646291990787],
+        type: "Point",
+      },
+    },
+    {
+      type: "Feature",
+      properties: {},
+      geometry: {
+        coordinates: [4.8986232582753075, 46.77072223397661],
+        type: "Point",
+      },
+    },
   ],
 };
